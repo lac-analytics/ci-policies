@@ -5,3 +5,4 @@ Las letras pequeñas y grandes sobre como operamos, que ofrecemos, a que nos com
 [Check here the english version]()
 
 + [Términos de servicio](terminos/index.md)
++ [Privacidad](privacidad/index.md)

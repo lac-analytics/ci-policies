@@ -1,5 +1,5 @@
 # Términos del servicio
-***
+
 *Última edición: 14 Mayo 2021*
 
 De parte de todo el equipo de City Intelligence, te damos las gracias por utilizar nuestros productos. Los construimos para ayudarte a hacer tu mejor trabajo simplificando el proceso de análisis de inteligencia de mercados, a través de la ciencia de datos, big & smart data, location intelligence software e inteligencia artificial. Dado que no conocemos personalmente a cada una de nuestras clientas, tenemos que establecer algunas condiciones de servicio para ayudar a mantener el barco a flote.
