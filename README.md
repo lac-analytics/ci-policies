@@ -1,0 +1,4 @@
+# TÉRMINOS, POLÍTICAS, CONDICIONES Y ASPECTOS LEGALES
+## City Intelligence
+
+
