@@ -12,3 +12,10 @@ Las letras pequeñas y grandes sobre como operamos, que ofrecemos, a que nos com
 + [Politica de reembolso justo](reembolso/index.md)
 + [Politica de seguridad](seguridad/index.md)
 + [Politica de jurisdicción](jurisdiccion/index.md)
+
+## Contribuye a estas políticas
+
+Damos la bienvenida a nuestros clientes para sugerir cambios en nuestras políticas y ofrecer comentarios sobre los cambios que hemos planeado. Por favor, sientanse libres de comentar en los *pull request* abiertos, o incluso abrir un *pull request*.
+
+---
+Las políticas de City Intelligence son open source, licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adaptadas de [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
