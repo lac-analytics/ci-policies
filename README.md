@@ -6,3 +6,4 @@ Las letras pequeñas y grandes sobre como operamos, que ofrecemos, a que nos com
 
 + [Términos de servicio](terminos/index.md)
 + [Privacidad](privacidad/index.md)
++ [Restricciones de uso](restricciones/index.md)
