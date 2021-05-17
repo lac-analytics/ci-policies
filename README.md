@@ -1,4 +1,6 @@
-# City Intelligence Términos, Políticas, Condiciones y Aspectos Legales.
+<img src="https://lac.city/static/static/images/CI_LOGOTIPO_1.png" width="150" align="left" />
+
+# Términos, Políticas, Condiciones y Aspectos Legales.
 
 Las letras pequeñas y grandes sobre como operamos, que ofrecemos, a que nos comprometemos y que esperamos de quien utiliza nuestro servicio. Las intentamos hacer lo más claras, justas y fácil de leer.
 
