@@ -8,3 +8,4 @@ Las letras pequeñas y grandes sobre como operamos, que ofrecemos, a que nos com
 + [Privacidad](privacidad/index.md)
 + [Restricciones de uso](restricciones/index.md)
 + [Política de cancelación](concelacion/index.md)
++ [Politica de impuestos](impuestos/index.md)
