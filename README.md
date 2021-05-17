@@ -1,4 +1,4 @@
-<img src="https://lac.city/static/static/images/CI_LOGOTIPO_1.png" width="150" align="left" />
+![](https://lac.city/static/static/images/CI_LOGOTIPO_1.png)
 
 # Términos, Políticas, Condiciones y Aspectos Legales.
 
