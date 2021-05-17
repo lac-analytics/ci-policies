@@ -11,3 +11,4 @@ Las letras pequeñas y grandes sobre como operamos, que ofrecemos, a que nos com
 + [Politica de impuestos](impuestos/index.md)
 + [Politica de reembolso justo](reembolso/index.md)
 + [Politica de seguridad](seguridad/index.md)
++ [Politica de jurisdicción](jurisdiccion/index.md)
